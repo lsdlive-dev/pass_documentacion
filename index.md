@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## LivePass Docs
 
 You can use the [editor on GitHub](https://github.com/lsdlive-dev/pass_documentacion/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
